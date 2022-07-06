@@ -1,4 +1,4 @@
-# librarybiapi
+# libraryapi
 
 This is a simple REST api.  
 Upload data using data.py file  
