@@ -1,0 +1,108 @@
+{
+    "books":[
+        {
+        "name":"Lord of the Rings",
+        "category": "Fantasy",
+        "rent": 10
+    },
+    {
+        "name":"Pinocchio",
+        "category": "Fiction",
+        "rent": 15
+    },
+    {
+        "name":"Harry Potter and the Sorcerer's Stone",
+        "category": "Fiction",
+        "rent": 20
+    },
+    {
+        "name":"Gone Girl",
+        "category": "Mystery",
+        "rent": 40
+    },
+    {
+        "name":"Catcher in the Rye",
+        "category": "Fantasy",
+        "rent": 25
+    },
+    {
+        "name":"Alice's Adventures in Wonderland",
+        "category": "Fiction",
+        "rent": 10
+    },
+    {
+        "name":"And Then There Were None",
+        "category": "Mystery",
+        "rent": 35
+    },
+    {
+        "name":"Atomic Habbits",
+        "category": "Self Help",
+        "rent": 40
+    },
+    {
+        "name":"The Da Vinci Code",
+        "category": "Mystery",
+        "rent": 15
+    },
+    {
+        "name":"Woman in White",
+        "category": "Mystery",
+        "rent": 20
+    },
+    {
+        "name":"Eat that frog",
+        "category": "Self Help",
+        "rent": 10
+    },
+    {
+        "name":"Big Magic",
+        "category": "Self Help",
+        "rent": 25
+    },
+    {
+        "name":"Think and Grow Rich",
+        "category": "Finance",
+        "rent": 50
+    },
+    {
+        "name":"Zero to one",
+        "category": "Finance",
+        "rent": 55
+    },
+    {
+        "name":"Cosmos",
+        "category": "Science",
+        "rent": 25
+    },
+    {
+        "name":"Rationality",
+        "category": "Science",
+        "rent": 15
+    },
+    {
+        "name":"The Body",
+        "category": "Science",
+        "rent": 45
+    },
+    {
+        "name":"Helgoland",
+        "category": "Science",
+        "rent": 25
+    },
+    {
+        "name":"God: An Anatomy",
+        "category": "History",
+        "rent": 10
+    },
+    {
+        "name":"Hitler",
+        "category": "History",
+        "rent": 5
+    },
+    {
+        "name":"The Annals",
+        "category": "History",
+        "rent": 10
+    }
+    ]}
